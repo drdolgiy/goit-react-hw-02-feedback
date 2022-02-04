@@ -1,0 +1,15 @@
+{
+    "terminal.external.windowsExec": "C:\\Windows\\System32\\bush.exe",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnPaste": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.formatOnType": true,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.formatOnSave": true,
+
+}
